@@ -1,3 +1,12 @@
 voila
 voila-material
 bqplot
+numpy
+pandas
+folium
+seaborn
+ipywidgets
+matplotlib
+__future__
+IPython
+plotly
