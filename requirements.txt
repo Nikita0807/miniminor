@@ -1,12 +1,14 @@
 voila
 voila-material
 bqplot
-numpy
-pandas
+ __future__ 
+ ipywidgets 
+IPython.core.display 
+numpy 
+pandas 
+matplotlib.pyplot 
+plotly.express 
 folium
-seaborn
-ipywidgets
-matplotlib
-__future__
-IPython
-plotly
+plotly.graph_objects 
+seaborn 
+
