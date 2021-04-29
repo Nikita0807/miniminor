@@ -1,2 +1,2 @@
-web: voila --port=$PORT --no-browser --template=material --enable_nbextensions=True notebooks/bqplot.ipynb
-web: voila --port=$PORT --no-browser --template=material --enable_nbextensions=True 
+
+web: voila --port=$PORT --no-browser --template=material --enable_nbextensions=True notebooks/MINOR_PROJECT.ipynb
