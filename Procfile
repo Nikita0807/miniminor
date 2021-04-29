@@ -1,2 +1,2 @@
 
-web: voila --port=$PORT --no-browser --template=material --enable_nbextensions=True notebooks/MINOR_PROJECT.ipynb
+web: voila --port=$PORT --no-browser --template=Nbconvert --enable_nbextensions=True notebooks/MINOR_PROJECT.ipynb
